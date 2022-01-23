@@ -1,19 +1,24 @@
 # CredibilityCheckCrawler
-Python and Javascript based Crawler 
+Python and Javascript based Crawler used my master  thesis
 
 ## Caution 
-- This readme is not reviewed by someone and I typed it asap despite I'm not good at english
+- This readme is not reviewed by someone and I typed it hurriedly. Please pardon me for the crude readme
 
-## these files is used for my master thesis
+## These project is used for my master thesis
+- It is just copy of experiment codes
+- I cannot help and support you whenever you encount any problems,
+- Please use these scripts at your own risk.
 
-## ** I forgot functions in this crawer  **
-- So if you happen to any problems, I cannot help and support you. 
-- Pls use these scripts at your own risk.
-
-## this crawer needs some meta files
-- It needs files for judging credibility of webpage, deciding webpages to visit, avoiding to visit well-known webpages( ex. sns, google search result etc. ) and webpages reported that ”Don't access my pages” from administrator in past projects.
-- So if you want to crawl and judge webpages preciously pls update meta file. Applying new meta files and rules are greatly appreiated
-- Some files and directories is uploaded. But all of them is compressed. In addition, even if you un-zip them, Some files is empty. For ex, *.pre.   
-	- So you should read master function to put meta files in right way:D
+## This crawler needs some meta files
+- It needs files for..
+  - How judging credibility of webpages
+  - Whether visiting webpages
+    - Avoid to visit well-known webpages( ex. sns, google search result etc. ) 
+    - Prohibit to visit webpages are reported that ”Don't access my pages” from administrator in past projects  or through robots.txt.
+- If you want to crawl and judge webpages preciously, please update meta files. 
+  - Applying new meta files and rules are greatly appreciated
+- Sorry, some of files, especially DATA file like "*.zip, *.pre" couldn't be upload github. 
+  - Nevertheless, I left molds of files. They don't have any contents. They  are empty.
+- Please read master functions to put meta files in right way:D
 
  
